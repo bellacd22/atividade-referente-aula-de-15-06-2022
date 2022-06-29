@@ -1,0 +1,123 @@
+
+        table
+        {
+            width: 1000px;
+            
+            margin-bottom: 50px;
+        }
+
+        td
+        {
+        width: 120px;
+        border-style: solid;
+        text-align: center;
+        font-family: Arial; 
+        margin-bottom: 5px;
+        background-color: rgb(219, 219, 219);
+        border-width: 2px;
+        border-style: outset;
+        }
+
+        td.first
+        {
+            background-color: rgb(202, 202, 202);
+            font-size: 20px;
+            font-weight: bolder;
+        }
+
+        td.flag
+        {
+            width: 22px;
+            max-width: 22px;
+        }
+
+        img.medal
+        {
+        height: 35px;
+        }
+
+        img.flag
+        {
+        height: 40px;
+        width: 55px;
+        }
+
+        @font-face 
+        {
+        font-family: 'Fonte1';
+        src: url('Fonte/Fonte1.otf') format('truetype');
+        }
+
+        div.title
+        {
+            font-family: "Fonte1";
+            font-weight: 100;
+            font-size: 35px;
+
+        }
+        
+        a.link
+        {
+            text-decoration: none;
+            color:black;
+        }
+
+        .left
+        {
+            text-align: left;
+        }
+
+        td.smaller
+        {
+            width: 40px;
+            max-width: 40px;
+        }
+        td.smaller2
+        {
+            width: 50px;
+            max-width: 50px; 
+        }
+        td.name
+        {
+            width: 100px;
+            max-width: 100px;
+        }
+        tr
+        {
+            height: 50px;
+        }
+        tr.first2
+        {
+            height: 35px;
+            max-height: 35px;
+        }
+        .font
+        {
+            font-size: 20px;
+        }
+        td.clearer
+        {
+            background-color:  rgb(228, 228, 228);
+        }
+        tr.submedal
+        {
+            height: 100px;
+        }
+        td.transparent
+        {
+            background-color: transparent;
+            border-color: transparent;
+        }
+        .transparent.smaller
+        {
+            width: 2px;
+        }
+        .letter
+        {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 100px;
+        }
+        td.fontachieviment
+        {
+            font-size: 48px;
+        }
